@@ -1,0 +1,17 @@
+{
+  "grade": "SAE 4140",
+  "heat_size_tons": 30.0,
+  "inventory_tons": {
+    "HMS-1": 12.0,
+    "HMS-2": 10.0,
+    "Shredded Scrap": 8.0,
+    "Turnings": 5.0,
+    "Auto Scrap": 2.0,
+    "Pig Iron": 5.0,
+    "DRI": 15.0
+  },
+  "std_dev_overrides": {
+    "Auto Scrap": { "Cu": 0.08, "Sn": 0.003 },
+    "Turnings": { "Cu": 0.03, "Sn": 0.002 }
+  }
+}

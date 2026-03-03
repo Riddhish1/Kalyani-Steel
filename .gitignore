@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.next/
+node_modules/
+frontend/.next/
+frontend/node_modules/
+*.log
+.env
+backend/.env
+frontend/.env.local
+/.next_stale_*

@@ -1,0 +1,521 @@
+{
+  "scrap_grades": {
+    "Auto Scrap": {
+      "available_tons": 60.0,
+      "chemistry": {
+        "C": {
+          "mean": 0.2,
+          "std_dev": 0.0
+        },
+        "Cr": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Cu": {
+          "mean": 0.8,
+          "std_dev": 0.0
+        },
+        "Mn": {
+          "mean": 0.4,
+          "std_dev": 0.0
+        },
+        "Mo": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Ni": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "P": {
+          "mean": 0.04,
+          "std_dev": 0.0
+        },
+        "S": {
+          "mean": 0.05,
+          "std_dev": 0.0
+        },
+        "Si": {
+          "mean": 0.15,
+          "std_dev": 0.0
+        },
+        "Sn": {
+          "mean": 0.02,
+          "std_dev": 0.0
+        }
+      },
+      "cost_inr_per_ton": 25000,
+      "yield_factor": 1.0
+    },
+    "DRI": {
+      "available_tons": 60.0,
+      "chemistry": {
+        "C": {
+          "mean": 1.0,
+          "std_dev": 0.0
+        },
+        "Cr": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Cu": {
+          "mean": 0.005,
+          "std_dev": 0.0
+        },
+        "Mn": {
+          "mean": 0.5,
+          "std_dev": 0.0
+        },
+        "Mo": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Ni": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "P": {
+          "mean": 0.03,
+          "std_dev": 0.0
+        },
+        "S": {
+          "mean": 0.02,
+          "std_dev": 0.0
+        },
+        "Si": {
+          "mean": 0.3,
+          "std_dev": 0.0
+        },
+        "Sn": {
+          "mean": 0.001,
+          "std_dev": 0.0
+        }
+      },
+      "cost_inr_per_ton": 32000,
+      "yield_factor": 1.0
+    },
+    "FeCr_LC": {
+      "available_tons": 2.0,
+      "chemistry": {
+        "C": {
+          "mean": 0.08,
+          "std_dev": 0.0
+        },
+        "Cr": {
+          "mean": 65.0,
+          "std_dev": 0.0
+        },
+        "Cu": {
+          "mean": 0.01,
+          "std_dev": 0.0
+        },
+        "Mn": {
+          "mean": 0.2,
+          "std_dev": 0.0
+        },
+        "Mo": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Ni": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "P": {
+          "mean": 0.03,
+          "std_dev": 0.0
+        },
+        "S": {
+          "mean": 0.01,
+          "std_dev": 0.0
+        },
+        "Si": {
+          "mean": 1.0,
+          "std_dev": 0.0
+        },
+        "Sn": {
+          "mean": 0.001,
+          "std_dev": 0.0
+        }
+      },
+      "cost_inr_per_ton": 125000,
+      "yield_factor": 1.0
+    },
+    "FeMn_HC": {
+      "available_tons": 0.8,
+      "chemistry": {
+        "C": {
+          "mean": 7.0,
+          "std_dev": 0.0
+        },
+        "Cr": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Cu": {
+          "mean": 0.02,
+          "std_dev": 0.0
+        },
+        "Mn": {
+          "mean": 75.0,
+          "std_dev": 0.0
+        },
+        "Mo": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Ni": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "P": {
+          "mean": 0.2,
+          "std_dev": 0.0
+        },
+        "S": {
+          "mean": 0.02,
+          "std_dev": 0.0
+        },
+        "Si": {
+          "mean": 1.2,
+          "std_dev": 0.0
+        },
+        "Sn": {
+          "mean": 0.001,
+          "std_dev": 0.0
+        }
+      },
+      "cost_inr_per_ton": 95000,
+      "yield_factor": 1.0
+    },
+    "FeMo": {
+      "available_tons": 0.6,
+      "chemistry": {
+        "C": {
+          "mean": 0.1,
+          "std_dev": 0.0
+        },
+        "Cr": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Cu": {
+          "mean": 0.01,
+          "std_dev": 0.0
+        },
+        "Mn": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Mo": {
+          "mean": 60.0,
+          "std_dev": 0.0
+        },
+        "Ni": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "P": {
+          "mean": 0.02,
+          "std_dev": 0.0
+        },
+        "S": {
+          "mean": 0.02,
+          "std_dev": 0.0
+        },
+        "Si": {
+          "mean": 1.0,
+          "std_dev": 0.0
+        },
+        "Sn": {
+          "mean": 0.001,
+          "std_dev": 0.0
+        }
+      },
+      "cost_inr_per_ton": 210000,
+      "yield_factor": 1.0
+    },
+    "FeSi": {
+      "available_tons": 0.25,
+      "chemistry": {
+        "C": {
+          "mean": 0.05,
+          "std_dev": 0.0
+        },
+        "Cr": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Cu": {
+          "mean": 0.005,
+          "std_dev": 0.0
+        },
+        "Mn": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Mo": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Ni": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "P": {
+          "mean": 0.02,
+          "std_dev": 0.0
+        },
+        "S": {
+          "mean": 0.01,
+          "std_dev": 0.0
+        },
+        "Si": {
+          "mean": 70.0,
+          "std_dev": 0.0
+        },
+        "Sn": {
+          "mean": 0.0005,
+          "std_dev": 0.0
+        }
+      },
+      "cost_inr_per_ton": 160000,
+      "yield_factor": 1.0
+    },
+    "HMS-1": {
+      "available_tons": 60.0,
+      "chemistry": {
+        "C": {
+          "mean": 0.7,
+          "std_dev": 0.0
+        },
+        "Cr": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Cu": {
+          "mean": 0.05,
+          "std_dev": 0.0
+        },
+        "Mn": {
+          "mean": 0.9,
+          "std_dev": 0.0
+        },
+        "Mo": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Ni": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "P": {
+          "mean": 0.02,
+          "std_dev": 0.0
+        },
+        "S": {
+          "mean": 0.04,
+          "std_dev": 0.0
+        },
+        "Si": {
+          "mean": 0.2,
+          "std_dev": 0.0
+        },
+        "Sn": {
+          "mean": 0.01,
+          "std_dev": 0.0
+        }
+      },
+      "cost_inr_per_ton": 30000,
+      "yield_factor": 1.0
+    },
+    "HMS-2": {
+      "available_tons": 60.0,
+      "chemistry": {
+        "C": {
+          "mean": 0.6,
+          "std_dev": 0.0
+        },
+        "Cr": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Cu": {
+          "mean": 0.1,
+          "std_dev": 0.0
+        },
+        "Mn": {
+          "mean": 0.8,
+          "std_dev": 0.0
+        },
+        "Mo": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Ni": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "P": {
+          "mean": 0.02,
+          "std_dev": 0.0
+        },
+        "S": {
+          "mean": 0.04,
+          "std_dev": 0.0
+        },
+        "Si": {
+          "mean": 0.15,
+          "std_dev": 0.0
+        },
+        "Sn": {
+          "mean": 0.005,
+          "std_dev": 0.0
+        }
+      },
+      "cost_inr_per_ton": 28000,
+      "yield_factor": 1.0
+    },
+    "Pig Iron": {
+      "available_tons": 60.0,
+      "chemistry": {
+        "C": {
+          "mean": 4.0,
+          "std_dev": 0.0
+        },
+        "Cr": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Cu": {
+          "mean": 0.01,
+          "std_dev": 0.0
+        },
+        "Mn": {
+          "mean": 0.5,
+          "std_dev": 0.0
+        },
+        "Mo": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Ni": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "P": {
+          "mean": 0.08,
+          "std_dev": 0.0
+        },
+        "S": {
+          "mean": 0.04,
+          "std_dev": 0.0
+        },
+        "Si": {
+          "mean": 1.0,
+          "std_dev": 0.0
+        },
+        "Sn": {
+          "mean": 0.001,
+          "std_dev": 0.0
+        }
+      },
+      "cost_inr_per_ton": 26000,
+      "yield_factor": 1.0
+    },
+    "Shredded Scrap": {
+      "available_tons": 60.0,
+      "chemistry": {
+        "C": {
+          "mean": 0.25,
+          "std_dev": 0.0
+        },
+        "Cr": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Cu": {
+          "mean": 0.02,
+          "std_dev": 0.0
+        },
+        "Mn": {
+          "mean": 0.5,
+          "std_dev": 0.0
+        },
+        "Mo": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Ni": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "P": {
+          "mean": 0.015,
+          "std_dev": 0.0
+        },
+        "S": {
+          "mean": 0.03,
+          "std_dev": 0.0
+        },
+        "Si": {
+          "mean": 0.1,
+          "std_dev": 0.0
+        },
+        "Sn": {
+          "mean": 0.003,
+          "std_dev": 0.0
+        }
+      },
+      "cost_inr_per_ton": 33000,
+      "yield_factor": 1.0
+    },
+    "Turnings": {
+      "available_tons": 60.0,
+      "chemistry": {
+        "C": {
+          "mean": 0.7,
+          "std_dev": 0.0
+        },
+        "Cr": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Cu": {
+          "mean": 0.2,
+          "std_dev": 0.0
+        },
+        "Mn": {
+          "mean": 0.4,
+          "std_dev": 0.0
+        },
+        "Mo": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "Ni": {
+          "mean": 0.0,
+          "std_dev": 0.0
+        },
+        "P": {
+          "mean": 0.015,
+          "std_dev": 0.0
+        },
+        "S": {
+          "mean": 0.08,
+          "std_dev": 0.0
+        },
+        "Si": {
+          "mean": 0.3,
+          "std_dev": 0.0
+        },
+        "Sn": {
+          "mean": 0.005,
+          "std_dev": 0.0
+        }
+      },
+      "cost_inr_per_ton": 24000,
+      "yield_factor": 0.75
+    }
+  }
+}
