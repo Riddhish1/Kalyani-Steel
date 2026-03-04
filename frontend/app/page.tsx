@@ -173,7 +173,6 @@ export default function Home() {
 
   return (
     <main className="mx-auto max-w-7xl p-4 md:p-6">
-      <h1 className="mb-4 text-xl font-semibold tracking-wide text-accent">KSL EAF Scrap Mix Optimizer</h1>
 
       {error ? (
         <div className="mb-4 rounded border border-danger/50 bg-danger/10 px-3 py-2 text-sm text-danger">

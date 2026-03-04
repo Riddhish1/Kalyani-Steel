@@ -4,7 +4,7 @@ import "./globals.css";
 import logo from "./logo.png";
 
 export const metadata: Metadata = {
-  title: "KSL Scrap Mix Optimizer",
+  title: "Kalyani Steel",
   description: "EAF Scrap Mix Optimization System"
 };
 
@@ -21,7 +21,7 @@ export default function RootLayout({
       <body>
         <header className="p-4 flex items-center">
           <Image src={logo} alt="Kalyani Steel" width={48} height={48} />
-          <h1 className="ml-3 text-xl font-semibold">KSL Scrap Mix Optimizer</h1>
+          <h1 className="ml-3 text-xl font-semibold">Kalyani Steel EAF Scrap Mix Optimizer</h1>
         </header>
         {children}
       </body>
